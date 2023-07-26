@@ -1,4 +1,4 @@
-var socket = io('https://ab40-2401-4900-1f28-2a1a-7-44cc-bd18-9f49', { transports: ['websocket', 'polling', 'flashsocket'] });
+var socket = io('https://prithvijedipatil.github.io/onlinechatapp/', { transports: ['websocket', 'polling', 'flashsocket'] });
 
 
 
